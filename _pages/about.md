@@ -1,3 +1,14 @@
+---
+permalink: /
+title: "Welcome to Yuhui's homepage"
+excerpt: "徐玉晖 - 个人主页"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 你好，我是徐玉晖，目前于荷兰埃因霍温理工大学攻读工业设计博士。我欣赏**日常物品**的丰富内涵，并通过**对话代理**变化的**人工身份**来探索它们在支持**人生转变**方面的潜力。
 
 精选工作
