@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "徐玉晖 - 个人主页"
+title: "主页"
 excerpt: "徐玉晖 - 个人主页"
 author_profile: true
 redirect_from: 
