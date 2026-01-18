@@ -36,19 +36,21 @@ redirect_from:
 
 - Xu, Y., Lee, M., Wensveen, S. A. & Funk, M. (2024). Objects of Connection: Exploring Expats’ Loneliness Through Chatbot Conversations with Everyday Objects. Interactions With Language-Based AI: Concluding Conference of the Human-Agent Interaction Network. Leibniz-Institut für Wissensmedien (IWM), Tübingen.
 
-- Xu, Y. (2024) Object-Mediated Well-being through Conversation. ACM Conference on Conversational User Interfaces. Doctoral consortium proposals.
+- Xu, Y. (2024). Object-Mediated Well-being through Conversation. ACM Conference on Conversational User Interfaces. Doctoral consortium proposals.
 
 更多学术成果，请查阅我的 [谷歌学术](https://scholar.google.com/citations?user=cvA0ZbQAAAAJ&hl=en) 主页。
 
 项目参与
 ------
-[NORDeHEALTH](https://nordehealth.eu/)：芬兰科学院战略研究理事会（352501，352503）与 NordForsk 北欧研究合作机构共同项目（100477）
+[SAM Smart](https://samsmart.de/en/)：德国联邦教育与研究基金会 SAM Smart 项目：智能家居安全协助系统研发，项目经费340万欧元，获批时间2022， 参与时间2025-2026。作为合作方负责人，主导创新型数据收集工具的设计、开发与维护，并深度参与两项研究的全过程
+
+[NORDeHEALTH](https://nordehealth.eu/)：芬兰科学院战略研究理事会（352501，352503）与 NordForsk 北欧研究合作机构共同项目（100477）：芬兰国家患者门户网站的用户体验与可用性调查研究，参与时间2021-2022。作为研究助理，负责定量数据分析，并为写作提供支持
 
 教学经历
 ------
-- 在 **“建设性设计研究”**（理解并实践“通过设计进行研究”）和 **“设计互联体验”**（设计与开发智能物联网原型）这两门课程中，提出学生项目提案，并指导学生项目开展。
+- 在 **“建设性设计研究”**（理解并实践“通过设计进行研究”）、**“设计互联体验”**（设计与开发智能物联网原型）、**“设计对话体验”** 等多门课程中提出学生项目提案，并指导学生项目开展。
 
-- 在 **“设计对话体验”** 和 **“交互道德”** 这两门课程上进行讲座，分享与课程主题相关的研究。
+- 在 **“设计对话体验”** 和 **“交互道德”** 等课程中开设多次讲座，分享与课程主题相关的研究。
 
 关于我
 ------
@@ -64,7 +66,7 @@ redirect_from:
 **研究经历**
 
 - **2021.10-2022.05** 于芬兰阿尔托大学担任研究助理，导师为 Dr. [Sari Kujala](https://scholar.google.com/citations?user=PTwV8MUAAAAJ&hl=en&oi=ao)
-- **2023-至今** 参与 ECIS'24，AVI'23, TOHRI 等会议或期刊的审稿工作
+- **2023-至今** 参与 CHI，DRS，ECIS，AVI, TOHRI 等会议或期刊的审稿工作
 
 **工作经历**
 
