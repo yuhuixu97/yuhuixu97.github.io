@@ -16,7 +16,7 @@ redirect_from:
 
 **通过聊天机器人和物品对话**
 
-- 我们设计了一款聊天机器人，让人们通过其与生活中的物品进行对话。通过部署与探索，我们总结出了“跨具身化” (trans-embodiment) 这一概念，以强调人类、聊天机器人和物品身份的流动性。该工作已全文发表于顶会 ACM CHI 2026。
+- 我们设计了一款聊天机器人，让它扮演人们生活中的物品，从而允许人们与这些物品对话。通过2周的实地部署与探索，我们总结出了“跨具身化” (trans-embodiment) 这一概念，对人生过渡、日常物品、人工身份等多个 HCI 研究领域做出贡献。该工作已全文发表于顶会 ACM CHI 2026。
 
 **一款大语言模型驱动的聊天机器人**
 
@@ -28,7 +28,7 @@ redirect_from:
 
 精选文章发表
 ------
-- Xu, Y., Lee, M., Wensveen, S. A. & Funk, M. (2025). Trans-Embodiment: Conversing with Objects toward Fluid Human and Artificial Identities. ACM Transactions on Computer-Human Interaction (under review)
+- Xu, Y., Lee, M., Wensveen, S. A., Alizadeh, M. & Funk, M. (2026). Conversing with Objects toward Fluid Human and Artificial Identities during Life Transitions. 
 
 - Simola, S., Hörhammer, I., Xu, Y., Bärkås, A., Fagerlund, A. J., Hagström, J., ... & Kujala, S. (2023). Patients' experiences of a national patient portal and its usability: cross-sectional survey study. Journal of Medical Internet Research, 25, e45974.
 
@@ -52,7 +52,7 @@ redirect_from:
 
 关于我
 ------
-我是中国人，目前在荷兰埃因霍温工作。我是埃因霍温理工大学工业设计专业的博士生，导师团队为 Dr. Mathias Funk，Dr. Stephan Wensveen，以及 Dr. Minha Lee。2021年至2022年，我在阿尔托大学担任研究助理，导师是 Dr. Sari Kujala。我的研究兴趣集中在**日常物品**、**聊天机器人**、**人工身份**、**智能家居**和**人生转变**等领域。
+我生于广东，祖籍重庆。目前是荷兰埃因霍温理工大学工业设计专业的博士生，导师团队为 Dr. [Mathias Funk](https://scholar.google.com/citations?user=RjwG-m8AAAAJ&hl=en)，Dr. [Stephan Wensveen](https://scholar.google.com/citations?user=UGmwFLAAAAAJ&hl=en)，以及 Dr. [Minha Lee](https://scholar.google.com/citations?user=yVt9qu4AAAAJ&hl=en)。2021年至2022年，我在阿尔托大学担任研究助理，导师是 Dr. [Sari Kujala](https://scholar.google.com/citations?user=PTwV8MUAAAAJ&hl=en&oi=ao)。我的研究兴趣集中在**日常物品**、**聊天机器人**、**人生转变**、**人工身份**、**智能家居**等领域。
 
 **教育背景**
 
@@ -72,10 +72,10 @@ redirect_from:
 - **2021.02-04** 芬兰 Marble 公司，用户体验设计实习
 - **2020.06-08** 融易科技，产品经理实习，广州
 
-**我**
+**其他**
 
 - 我是 **ISFJ** 型人格，喜欢感受这个世界、帮助他人以及欣赏平凡的日常生活。
-- 我喜欢弹吉他、创作音乐、打羽毛球和木雕。
+- 我喜欢弹吉他、创作音乐、打羽毛球、木雕。
 
 
 
